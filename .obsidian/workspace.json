@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "e241e06259b76122",
+    "type": "split",
+    "children": [
+      {
+        "id": "52a90669570605ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1a70acb8bd532f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domača stran.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Domača stran"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb188d34bb1ce1fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "666b566a682f1895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b183f72515e4dd7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a97b979f377e5f85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ".excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b34b9fa3ad9474dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "831b21e889f807bf",
+        "type": "tabs",
+        "dimension": 20.486111111111107,
+        "children": [
+          {
+            "id": "bea6759642737494",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obratovanje sinhronskega stroja.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Obratovanje sinhronskega stroja"
+            }
+          },
+          {
+            "id": "827929e1b22e329b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sinhronski stroj.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sinhronski stroj"
+            }
+          },
+          {
+            "id": "4efc0390a931590a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "088be638c26d5945",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Nadomestno vezje transformatorja 2024-11-16 10.41.58.excalidraw.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Nadomestno vezje transformatorja 2024-11-16 10.41.58.excalidraw"
+            }
+          },
+          {
+            "id": "f442f2d055b54a7f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "f04e98315356602d",
+        "type": "tabs",
+        "dimension": 79.51388888888889,
+        "children": [
+          {
+            "id": "db3faec1ebee487f",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {},
+              "icon": "sigma",
+              "title": "Mathpad"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 384.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mathpad:Open Mathpad": false,
+      "obsifetch:obsifetch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "d1a70acb8bd532f1",
+  "lastOpenFiles": [
+    "Excalidraw/Amerov zakon 2024-11-02 10.37.52.excalidraw.md",
+    "Amerov zakon.md",
+    "Excalidraw/BH krivulja 2024-11-02 12.41.23.excalidraw.md",
+    "Excalidraw/Amerov zakon 2024-11-02 10.37.52.excalidraw.svg",
+    "Excalidraw/Amerov zakon 2024-11-02 10.37.52.excalidraw.png",
+    "Domača stran.md",
+    "Enofazna obremenitev trifaznega transformatorja.md",
+    "Pasted image 20241214131300.png",
+    "Pasted image 20241214131512.png",
+    "Transformatorji.md",
+    "Magnetni krog.md",
+    "Excalidraw/BH krivulja 2024-11-02 12.41.23.excalidraw.svg",
+    "Excalidraw/Vklopni pojav transformatorja 2024-11-16 13.39.31.excalidraw.md",
+    "Excalidraw/Vklopni pojav transformatorja 2024-11-16 13.39.31.excalidraw.svg",
+    "Excalidraw/Vklopni pojav transformatorja 2024-11-16 12.49.57.excalidraw.md",
+    "Excalidraw/Vklopni pojav transformatorja 2024-11-16 12.49.57.excalidraw.svg",
+    "Excalidraw/Vklopni pojav transformatorja 2024-11-16 12.27.07.excalidraw.md",
+    "Excalidraw/Vklopni pojav transformatorja 2024-11-16 12.27.07.excalidraw.svg",
+    "Excalidraw/Vklopni pojav transformatorja 2024-11-16 12.08.08.excalidraw.md",
+    "Excalidraw/Vklopni pojav transformatorja 2024-11-16 12.08.08.excalidraw.svg",
+    "Excalidraw/Trifazni transformator 2024-11-23 13.24.07.excalidraw.md",
+    "Excalidraw/Trifazni transformator 2024-11-23 13.24.07.excalidraw.svg",
+    "Excalidraw/Trifazni transformator 2024-11-23 13.04.34.excalidraw.md",
+    "Excalidraw/Trifazni transformator 2024-11-23 12.40.58.excalidraw.md",
+    "Excalidraw/Trifazni transformator 2024-11-23 11.21.12.excalidraw.md",
+    "Excalidraw/Trifazni transformator 2024-11-23 09.41.37.excalidraw.md",
+    "Excalidraw/Transformatorji 2024-11-12 17.20.46.excalidraw.md",
+    "Excalidraw/Transformatorji 2024-11-12 17.12.44.excalidraw.md",
+    "Excalidraw/Transformatorji 2024-11-12 16.54.55.excalidraw.md",
+    "Excalidraw/Transformatorji 2024-11-05 18.07.54.excalidraw.md",
+    "Excalidraw/Transformatorji 2024-11-05 17.51.13.excalidraw.md",
+    "Excalidraw/Transformatorji 2024-11-05 16.56.07.excalidraw.md",
+    "Excalidraw/Transformatorji 2024-11-05 16.40.22.excalidraw.md",
+    "Excalidraw/Sinhronski stroji 2024-11-30 12.58.55.excalidraw.md",
+    "Excalidraw/Sinhronski stroji 2024-11-30 10.45.07.excalidraw.md",
+    "Excalidraw"
+  ]
+}

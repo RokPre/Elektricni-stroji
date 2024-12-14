@@ -1,0 +1,10 @@
+{
+  "enabledCssSnippets": [
+    "excalidrawCenter",
+    "excalidrawWidth",
+    "latexSize",
+    "hideRibbon",
+    "imageCallout"
+  ],
+  "theme": "moonstone"
+}

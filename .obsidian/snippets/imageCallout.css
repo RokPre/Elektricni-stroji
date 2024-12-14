@@ -1,0 +1,16 @@
+.callout[data-callout^="image"]{
+	background-color: transparent;
+}
+
+.callout[data-callout^="image"] .callout-title{
+	display: none;
+}
+
+.callout[data-callout^="image"] .callout-content p{
+	display: flex;
+}
+
+.callout[data-callout^="image"] .callout-content p .excalidraw-svg{
+	max-width: 100%!important;
+	margin: auto;
+}

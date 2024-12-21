@@ -8,9 +8,11 @@ aliases:
   - 
 ---
 # Pojav
-Ob vklopu stikala ob času $t_{0}$ steče tok $I_{1}$. če bi se ta se spremeni hipno, bi se tudi magnetno polje $B$ premeni hipno. Če bi bilo to res, bi se na sekundarni strani inducirala neskončna napetost $E_{2} \to \infty$, saj velja $e_{i} = \frac{d\Phi}{dt} = A\frac{dB}{dt}$, vemo pa, da je magnetno polje odvisno od toka skozi navitje.
+Ob vklopu stikala ob času $t_{0}$ steče tok $I_{1}$. če bi se ta spremenil hipno, bi se tudi magnetno polje $B$ spremenilo hipno. Če bi bilo to res, bi se na sekundarni strani inducirala neskončna napetost $E_{2} \to \infty$, saj velja $e_{i} = \frac{d\Phi}{dt} = A\frac{dB}{dt}$, kar bi pomenilo, da deljimo z 0, vemo pa, da je magnetno polje odvisno od toka skozi navitje.
 
-Ker napetost ne more biti neskončna, imamo prehodni pojav. Na primarni strani se napetost res spremeni hipoma, tok se pa ne more, zaradi reaktance navitja.
+Ker napetost ne more biti neskončna, imamo prehodni pojav. Na primarni strani se napetost spremeni hipoma, tok se pa ne more, zaradi reaktance navitja. 
+
+Na sekundarni strani imamo odprte sponke in napajalna napetost je enosmerna.
 
 ![[Vklopni pojav transformatorja 2024-11-16 12.08.08.excalidraw]]
 # Vpliv nelinearnosti jedra na preklopni pojav

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "52a90669570605ba",
+        "id": "124925b75b0a0615",
         "type": "tabs",
         "children": [
           {
-            "id": "d1a70acb8bd532f1",
+            "id": "1f61db11eee985a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domača stran.md",
+                "file": "Obratovanje sinhronskega stroja.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Domača stran"
+              "title": "Obratovanje sinhronskega stroja"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,12 +63,12 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b34b9fa3ad9474dc",
@@ -169,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,43 +183,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d1a70acb8bd532f1",
+  "active": "1f61db11eee985a6",
   "lastOpenFiles": [
-    "Excalidraw/Amerov zakon 2024-11-02 10.37.52.excalidraw.md",
-    "Amerov zakon.md",
-    "Excalidraw/BH krivulja 2024-11-02 12.41.23.excalidraw.md",
-    "Excalidraw/Amerov zakon 2024-11-02 10.37.52.excalidraw.svg",
-    "Excalidraw/Amerov zakon 2024-11-02 10.37.52.excalidraw.png",
-    "Domača stran.md",
-    "Enofazna obremenitev trifaznega transformatorja.md",
-    "Pasted image 20241214131300.png",
-    "Pasted image 20241214131512.png",
-    "Transformatorji.md",
-    "Magnetni krog.md",
-    "Excalidraw/BH krivulja 2024-11-02 12.41.23.excalidraw.svg",
+    "Sinhronski stroj old.md",
+    "Obratovanje sinhronskega stroja.md",
+    "Excalidraw/1734783921.excalidraw.md",
+    "Excalidraw/1734783921.excalidraw.svg",
+    "Excalidraw/1734783015.excalidraw.md",
+    "Excalidraw/1734783015.excalidraw.svg",
+    "Excalidraw/1734782133.excalidraw.md",
+    "Excalidraw/1734781736.excalidraw.md",
+    "Index.md",
+    "Excalidraw/1734782133.excalidraw.svg",
+    "Excalidraw/Sinhronski stroj 23.03.2024_1.md",
+    "Excalidraw/1734781779.excalidraw.md",
+    "Excalidraw/1734781779.excalidraw.svg",
+    "Excalidraw/Sinhronski stroj 29.03.2024.md",
+    "Excalidraw/1734781736.excalidraw.svg",
+    "Excalidraw/Sinhronski stroj 23.03.2024.md",
+    "Reakcija indukta.md",
+    "Excalidraw/1734773900.excalidraw.md",
+    "Excalidraw/1734776286.excalidraw.md",
+    "Nadomestno vezje transformatorja.md",
+    "Excalidraw/1734776286.excalidraw.svg",
+    "Excalidraw/1734773900.excalidraw.svg",
+    "Excalidraw/1734772954.excalidraw.md",
+    "Excalidraw/Pasted image 20241214131512.png",
+    "Excalidraw/Sinhronski stroj 21.03.2024.md",
+    "Excalidraw/1734772954.excalidraw.svg",
+    "Excalidraw/1734772914.excalidraw.md",
+    "Trifazni transformator.md",
+    "Vklopni pojav transformatorja.md",
     "Excalidraw/Vklopni pojav transformatorja 2024-11-16 13.39.31.excalidraw.md",
-    "Excalidraw/Vklopni pojav transformatorja 2024-11-16 13.39.31.excalidraw.svg",
     "Excalidraw/Vklopni pojav transformatorja 2024-11-16 12.49.57.excalidraw.md",
-    "Excalidraw/Vklopni pojav transformatorja 2024-11-16 12.49.57.excalidraw.svg",
-    "Excalidraw/Vklopni pojav transformatorja 2024-11-16 12.27.07.excalidraw.md",
-    "Excalidraw/Vklopni pojav transformatorja 2024-11-16 12.27.07.excalidraw.svg",
-    "Excalidraw/Vklopni pojav transformatorja 2024-11-16 12.08.08.excalidraw.md",
-    "Excalidraw/Vklopni pojav transformatorja 2024-11-16 12.08.08.excalidraw.svg",
-    "Excalidraw/Trifazni transformator 2024-11-23 13.24.07.excalidraw.md",
-    "Excalidraw/Trifazni transformator 2024-11-23 13.24.07.excalidraw.svg",
-    "Excalidraw/Trifazni transformator 2024-11-23 13.04.34.excalidraw.md",
-    "Excalidraw/Trifazni transformator 2024-11-23 12.40.58.excalidraw.md",
-    "Excalidraw/Trifazni transformator 2024-11-23 11.21.12.excalidraw.md",
-    "Excalidraw/Trifazni transformator 2024-11-23 09.41.37.excalidraw.md",
-    "Excalidraw/Transformatorji 2024-11-12 17.20.46.excalidraw.md",
-    "Excalidraw/Transformatorji 2024-11-12 17.12.44.excalidraw.md",
-    "Excalidraw/Transformatorji 2024-11-12 16.54.55.excalidraw.md",
-    "Excalidraw/Transformatorji 2024-11-05 18.07.54.excalidraw.md",
-    "Excalidraw/Transformatorji 2024-11-05 17.51.13.excalidraw.md",
-    "Excalidraw/Transformatorji 2024-11-05 16.56.07.excalidraw.md",
-    "Excalidraw/Transformatorji 2024-11-05 16.40.22.excalidraw.md",
-    "Excalidraw/Sinhronski stroji 2024-11-30 12.58.55.excalidraw.md",
-    "Excalidraw/Sinhronski stroji 2024-11-30 10.45.07.excalidraw.md",
+    "BH krivulja.md",
+    "Excalidraw/Nadomestno vezje transformatorja 2024-11-16 10.41.58.excalidraw.md",
+    "Excalidraw/Amerov zakon 2024-11-02 10.37.52.excalidraw.md",
+    "Excalidraw/Amerov zakon 2024-11-02 10.37.52.excalidraw.svg",
     "Excalidraw"
   ]
 }

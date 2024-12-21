@@ -13,7 +13,8 @@ To so zapiski, ki sem jih naredil za predmet Električni stroji, ker se mi zdi k
 | [[Trifazni transformator\|predavanje 5]]                          | Trifazni transformator                          |
 | [[Enofazna obremenitev trifaznega transformatorja\|predavanje 6]] | Enofazna obremenitev trifaznega transformatorja |
 | [[Sinhronski stroji\|predavanje 7]]                               | Sinhronski stroji                               |
-| [[Obratovanje sinhronskega stroja\|predavanje 8]]                 | Obratovanje sinhronskega stroja                                               |
+| [[Obratovanje sinhronskega stroja\|predavanłje 8]]                 | Obratovanje sinhronskega stroja                 |
+| [[Reakcija indukta\|Predavanje 9]]                                | Reakcija indukta                                |
 
 
 
@@ -21,15 +22,18 @@ To so zapiski, ki sem jih naredil za predmet Električni stroji, ker se mi zdi k
 
 
 # Oznake in barve
-$B$ - Zelena
 $U$ - modra
 $I$ - oranžna
+$E$ - zelena
+$B$ - edeča
 $\Phi$ - rdeča
 
 $\tilde{X}$ - Povprečna vrednost
 $\hat{X}$ - Maksimum/amplituda
 $\bar{X}$ - Efektivna vrednost
 $\underline{X}$ - Kompleksor
+
+$\propto$ - dve veličini sta si proporcionalni/sorrazmerni
 
 # Excalidraw
 Vklopi `Embeding excalidraw into your notes and exporting -> type of file to instert into document -> excalidraw`.

@@ -46,3 +46,11 @@ Za lažje risanje kazalčnega diagrama si izberemo veličino, ki je najbolj odda
 7. Padec napetosti na primarnem navitju je sestavljen iz uporne komponenta $U_{R1}$ in reaktance $U_{X1}$, kjer je $U_{R1}$ v fazi s tokom $I_{1}$, $U_{X1}$ pa je pravokotna na $I_{1}$.
 8. Na koncu še narišemo $U_{1}$, ki je enak vsoti napetosti $E_{1}+U_{R1} + U_{X1}$.
 ![[Nadomestno vezje transformatorja 2024-11-16 10.41.58.excalidraw]]
+
+# Prosti tek
+str. 62
+# Kratek stik
+str. 64
+# Obremenjen trafo
+## Induktivna obremenitev
+## Kapacitivna obremenitev

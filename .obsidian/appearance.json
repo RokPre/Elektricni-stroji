@@ -1,10 +1,9 @@
 {
   "enabledCssSnippets": [
-    "excalidrawCenter",
-    "excalidrawWidth",
-    "latexSize",
     "hideRibbon",
-    "imageCallout"
+    "imageCallout",
+    "latexSize",
+    "excalidrawCenter"
   ],
   "theme": "moonstone",
   "baseFontSize": 16

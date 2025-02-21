@@ -6,6 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 52.03124999999999,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -13,13 +14,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
+                "file": "Magnetni krog.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Index"
-            }
+              "title": "Magnetni krog"
+            },
+            "group": "109dcec91af2f1ab"
+          }
+        ]
+      },
+      {
+        "id": "edc9822ab1381868",
+        "type": "tabs",
+        "dimension": 47.96875,
+        "children": [
+          {
+            "id": "2683f154b2db0818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magnetni krog.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magnetni krog"
+            },
+            "group": "109dcec91af2f1ab"
           }
         ]
       }
@@ -68,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b34b9fa3ad9474dc",
@@ -77,7 +102,7 @@
       {
         "id": "831b21e889f807bf",
         "type": "tabs",
-        "dimension": 20.486111111111107,
+        "dimension": 76.74418604651163,
         "children": [
           {
             "id": "bea6759642737494",
@@ -173,7 +198,7 @@
       {
         "id": "f04e98315356602d",
         "type": "tabs",
-        "dimension": 79.51388888888889,
+        "dimension": 23.25581395348837,
         "children": [
           {
             "id": "db3faec1ebee487f",
@@ -189,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,13 +226,32 @@
       "mathpad:Open Mathpad": false,
       "obsifetch:obsifetch": false,
       "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Index.md",
+    "Excalidraw/1740141209.excalidraw.md",
     "Magnetni krog.md",
+    "Excalidraw/1740141209.excalidraw.svg",
+    "Uvod.md",
+    "Excalidraw/1740140972.excalidraw.md",
+    "Excalidraw/1740140972.excalidraw.svg",
+    "Excalidraw/Magnetni krog 2024-11-02 09.34.50.excalidraw.md",
+    "Transformatorji.md",
+    "Coulombov zakon.md",
+    "Templates/NewNote.md",
+    "BH krivulja.md",
+    "test.md",
+    "Index.md",
+    "Excalidraw/drawing1740132003.excalidraw.md",
+    "Excalidraw/drawing1740132003.excalidraw.svg",
+    "Excalidraw/1740130184.excalidraw.md",
+    "Excalidraw/1740130184.excalidraw.svg",
+    "Excalidraw/1740130150.excalidraw.md",
+    "Excalidraw/1740130150.excalidraw.svg",
+    "Templates",
     "Amerov zakon.md",
     "pdf/Amerov zakon.pdf",
     "pdf/Magnetni krog.pdf",
@@ -226,23 +271,6 @@
     "Excalidraw/Sinhronski stroj 29.03.2024.md",
     "Excalidraw/1734781736.excalidraw.svg",
     "Excalidraw/Sinhronski stroj 23.03.2024.md",
-    "Reakcija indukta.md",
-    "Excalidraw/1734773900.excalidraw.md",
-    "Excalidraw/1734776286.excalidraw.md",
-    "Nadomestno vezje transformatorja.md",
-    "Excalidraw/1734776286.excalidraw.svg",
-    "Excalidraw/1734773900.excalidraw.svg",
-    "Excalidraw/1734772954.excalidraw.md",
-    "Excalidraw/Pasted image 20241214131512.png",
-    "Excalidraw/Sinhronski stroj 21.03.2024.md",
-    "Excalidraw/1734772954.excalidraw.svg",
-    "Excalidraw/1734772914.excalidraw.md",
-    "Trifazni transformator.md",
-    "Vklopni pojav transformatorja.md",
-    "Excalidraw/Vklopni pojav transformatorja 2024-11-16 13.39.31.excalidraw.md",
-    "Excalidraw/Vklopni pojav transformatorja 2024-11-16 12.49.57.excalidraw.md",
-    "BH krivulja.md",
-    "Excalidraw/Amerov zakon 2024-11-02 10.37.52.excalidraw.svg",
     "Excalidraw"
   ]
 }

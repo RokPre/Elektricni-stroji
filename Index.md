@@ -1,4 +1,7 @@
-# Dobrodošli
+---
+last edit: 2025-02-21 10:31
+---
+et Dobrodošli
 To so zapiski, ki sem jih naredil za predmet Električni stroji, ker se mi zdi knjiga ko jo je napisal profesor obupna. Zapiski sledijo predavanjem, vključujejo pa tudi [Electrical machines
 ](https://plus.cobiss.net/cobiss/si/sl/bib/ctk/38730501) in [Electrical machines
 ](https://plus.cobiss.net/cobiss/si/sl/bib/ctk/10303060)
@@ -6,6 +9,7 @@ To so zapiski, ki sem jih naredil za predmet Električni stroji, ker se mi zdi k
 
 | predavanje                                                        | tema                                            |
 | ----------------------------------------------------------------- | ----------------------------------------------- |
+| [[Uvod\|predavanje 0]]                                            | Uvod                                            | 
 | [[Magnetni krog\|predavanje 1]]                                   | Magnetni krog                                   |
 | [[Transformatorji\|predavanje 2]]                                 | Transformatorji                                 |
 | [[Nadomestno vezje transformatorja\|predavanje 3]]                | Nadomestno vezje transformatorja                |
@@ -13,7 +17,7 @@ To so zapiski, ki sem jih naredil za predmet Električni stroji, ker se mi zdi k
 | [[Trifazni transformator\|predavanje 5]]                          | Trifazni transformator                          |
 | [[Enofazna obremenitev trifaznega transformatorja\|predavanje 6]] | Enofazna obremenitev trifaznega transformatorja |
 | [[Sinhronski stroji\|predavanje 7]]                               | Sinhronski stroji                               |
-| [[Obratovanje sinhronskega stroja\|predavanłje 8]]                 | Obratovanje sinhronskega stroja                 |
+| [[Obratovanje sinhronskega stroja\|predavanłje 8]]                | Obratovanje sinhronskega stroja                 |
 | [[Reakcija indukta\|Predavanje 9]]                                | Reakcija indukta                                |
 
 

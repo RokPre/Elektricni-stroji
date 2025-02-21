@@ -23,6 +23,10 @@
     "excalidraw-autoexport": "text",
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
-    "related": "multitext"
+    "related": "multitext",
+    "last edit": "date",
+    "creation date": "date",
+    "id": "number",
+    "ucb str": "text"
   }
 }

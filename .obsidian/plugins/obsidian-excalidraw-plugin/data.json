@@ -38,7 +38,7 @@
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
-  "defaultPenMode": "never",
+  "defaultPenMode": "always",
   "penModeDoubleTapEraser": true,
   "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": true,
@@ -100,6 +100,43 @@
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.6.2",
     "libraryItems": [
+      {
+        "id": "2KyC9uddW2eG_5IWhPXev",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "_lJMD1_U9dAVnj1D2bv6J",
+            "type": "rectangle",
+            "x": -638.8828125,
+            "y": -400.2421875,
+            "width": 1267,
+            "height": 803,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 4,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "a6",
+            "roundness": {
+              "type": 3
+            },
+            "seed": 1560673830,
+            "version": 189,
+            "versionNonce": 976939366,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1740141270496,
+            "link": null,
+            "locked": false
+          }
+        ],
+        "created": 1740141278117
+      },
       {
         "status": "unpublished",
         "elements": [

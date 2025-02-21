@@ -1,24 +1,21 @@
 ---
+creation date: 2025-02-19 13:37
+last edit: 2025-02-21 13:33
+id: 1739968659
+aliases:
+  - predavanje 1
+ucb str: 12-28
 related: 
 tags:
   - unfinished
-aliases:
-  - predavanje 1
-ucb: 9-28
 ---
-# Pretvorba energije
-Pri električnih stroji pridejo v upoštev dve vrsti energije, električna in mehanska. Za pretvorbo med oblikami energij uprabljamo električne stroji.
-%% TODO: Slikiza pretvorbe med razlicnimi oblikami %%
-Električni stroji imajo nekaj skupnih lastnisti:
-- Navitje (za generacijo magnetnega polja)
-- Zelezno jedro (za prevajanje/vodenja magnetnega polja)
-- Izolacija
-
-%% TODO
-# Magnetno polje
-%%
 # Enosmerni magnetni krog 
+![[1740141209.excalidraw.svg]]
+%%[[1740141209.excalidraw.md|🖋 Edit in Excalidraw]]%%
+![[1740140972.excalidraw.svg]]
+%%[[1740140972.excalidraw.md|🖋 Edit in Excalidraw]]%%
 ![[Magnetni krog 2024-11-02 09.34.50.excalidraw]]
+
 Okoli železnega jedra imamo navitje, ki deluje kot tuljava, ki generira magnetno polje in fluks (magnetno polje krat površina za homogene razmere). To navitje je napajano s strani enosmernega generatorja, ki vzbudi tok $I_{v}$ in napetost $U$ po navitju. Ker je vir enosmeren se lahko izračuna tok preko [[Ohmov zakon|ohmovega zakona]] $I_{v}=\frac{U}{R_{nav}}$, kjer je $R_{nav}$ upornost navitja.
 
 # Povezava z električnimi vezji
@@ -120,11 +117,8 @@ $$
 B= \frac{E_{i}}{4.44 fNA}
 $$
 Če hočemo povečati magnetno polje znotraj železa moramo povečati napajanje $U$, lahko pa tudi zmanjšamo frekvenco.
-# Zgradba strojev
-%% TODO: 
-1. Brez rotorja
-2. Notranji rotor
-3. Zunanji rotor
-4. S tekačem
-%%
+
+---
+Naslednje poglavje: [[Transformatorji]]
+
 [^1]: [Elektromagnetna indukcija - Wikipedija, prosta enciklopedija](https://sl.wikipedia.org/wiki/Elektromagnetna_indukcija)

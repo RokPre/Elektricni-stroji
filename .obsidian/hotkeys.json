@@ -498,5 +498,14 @@
       ],
       "key": "U"
     }
-  ]
+  ],
+  "templater-obsidian:Templates/NewNote.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "templater-obsidian:insert-templater": []
 }

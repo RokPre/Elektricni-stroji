@@ -6,5 +6,6 @@
     "hideRibbon",
     "imageCallout"
   ],
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSize": 16
 }

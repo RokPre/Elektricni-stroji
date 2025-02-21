@@ -4,19 +4,30 @@ tags:
   - unfinished
 aliases:
   - predavanje 1
+ucb: 9-28
 ---
+# Pretvorba energije
+Pri električnih stroji pridejo v upoštev dve vrsti energije, električna in mehanska. Za pretvorbo med oblikami energij uprabljamo električne stroji.
+%% TODO: Slikiza pretvorbe med razlicnimi oblikami %%
+Električni stroji imajo nekaj skupnih lastnisti:
+- Navitje (za generacijo magnetnega polja)
+- Zelezno jedro (za prevajanje/vodenja magnetnega polja)
+- Izolacija
 
+%% TODO
+# Magnetno polje
+%%
 # Enosmerni magnetni krog 
 ![[Magnetni krog 2024-11-02 09.34.50.excalidraw]]
-Okoli železnega jedra imamo navitje, ki deluje kot tuljava, ki generira magnetno polje in fluks (magnetno polje krat površina (za homogene razmere)). To navitje je napajano s strani enosmernega generatorja, ki vzbudi tok $I_{v}$ in napetost $U$ po navitju. Ker je vir enosmeren se lahko izračuna tok preko [[Ohmov zakon|ohmovega zakona]] $I_{v}=\frac{U}{R_{nav}}$, kjer je $R_{nav}$ upornost navitja.
+Okoli železnega jedra imamo navitje, ki deluje kot tuljava, ki generira magnetno polje in fluks (magnetno polje krat površina za homogene razmere). To navitje je napajano s strani enosmernega generatorja, ki vzbudi tok $I_{v}$ in napetost $U$ po navitju. Ker je vir enosmeren se lahko izračuna tok preko [[Ohmov zakon|ohmovega zakona]] $I_{v}=\frac{U}{R_{nav}}$, kjer je $R_{nav}$ upornost navitja.
 
 # Povezava z električnimi vezji
 Z pomočjo [[Amerov zakon|amerovega zakona]] bomo računali stanje v magnetnih krogih. Ker je enčaba, ki jo podaja amperov zakon zapletena bomo predpostavili določene poenastavitve:
-- Homogeno magnetno polje $\vec{B}$ v feromagnetnem jedru,
-- linearna karakteristika $BH$ [[BH krivulja|krivulje]]
-- magnetno polje je vzporedno normali površine prereza: $\vec{B} \parallel d\vec{A}$
+- Homogeno magnetno polje $\vec{B}$ v feromagnetnem jedru in v zraćni reži,
+- linearna karakteristika (pred kolenom ali pred nasičenjem) $BH$ [[BH krivulja|krivulje]], $B=\mu_{0} \mu_{r} \cdot H \Rightarrow y = k \cdot x; k = \mu_{0}\mu_{r}$
+- magnetno polje je vzporedno normali površine prereza: $\vec{B} \parallel d\vec{A}$ ali $\vec{H}\parallel \vec{l}$.
 
-Tako se levi del enačbe poenostavi:
+Tako se l evi del enačbe poenostavi:
 $$
 \oint_{\mathcal{L}}\vec{H}d \vec{l} = H \cdot l_{sr}
 $$
@@ -39,6 +50,7 @@ $$
 $$
 \Phi R_{mfe} + \Phi R_{mzr} = \Theta_{mv} = I_{v} \cdot N
 $$
+kjer je $R$ magnetna upornost ali reluktanca.
 
 Vezje zgornjega primera bi tako izgledalo:
 
@@ -64,6 +76,7 @@ $$
 $$
 vendar ker magnetna polja $B$ nista enaka, pomeni da tudi površini železa in zraka nista enaki. Ker je $B_{zr}$ manjši, mora biti $A_{zr}$ večji, da dobimo enakost.
 ![[Magnetni krog 2024-11-02 13.05.34.excalidraw]]
+%% TODO: Make image smaller %%
 
 # Izmenični magnetni krog
 Ker imamo izmenični vir napetosti imamo tudi izmenični tok, ki teče po navitju, posledično je magnetno polje znotraj jedra tudi izmenično. Prva polovica periode kaže magnetno polje v eno smer, drugo polovico pa kaze v nasprotno.
@@ -107,5 +120,11 @@ $$
 B= \frac{E_{i}}{4.44 fNA}
 $$
 Če hočemo povečati magnetno polje znotraj železa moramo povečati napajanje $U$, lahko pa tudi zmanjšamo frekvenco.
-
+# Zgradba strojev
+%% TODO: 
+1. Brez rotorja
+2. Notranji rotor
+3. Zunanji rotor
+4. S tekačem
+%%
 [^1]: [Elektromagnetna indukcija - Wikipedija, prosta enciklopedija](https://sl.wikipedia.org/wiki/Elektromagnetna_indukcija)

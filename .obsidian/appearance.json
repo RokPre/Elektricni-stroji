@@ -3,7 +3,9 @@
     "hideRibbon",
     "imageCallout",
     "latexSize",
-    "excalidrawCenter"
+    "excalidrawCenter",
+    "img-resize-percent",
+    "img-center"
   ],
   "theme": "moonstone",
   "baseFontSize": 16

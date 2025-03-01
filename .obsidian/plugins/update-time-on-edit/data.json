@@ -1,0 +1,19 @@
+{
+  "dateFormat": "yyyy-MM-dd HH:mm",
+  "enableCreateTime": false,
+  "headerUpdated": "last edit",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "Templates/NewNote.md": "413bf5a019c4d90a6b3bf6d7b29831e5eedccf16918f4383b94382570ac57a2c",
+    "Uvod.md": "4e1d4a991bdd49051c5038ec3d068a5250aeb5463d79febf36a7fdfb72a7ba35",
+    "Magnetni krog.md": "7e0e25e12dc220ed30d35dcf675eac2dd41ee94640645957ede0325a8ea32ef2",
+    "Index.md": "73f65b7b0d5d96e1cb4c1042b1e5063615cf1c25b39d1ac8345cdb14982a4b93",
+    "BH krivulja.md": "7c5b936a6e9cf68799e0c9df79b282ae0374b2f413051614ff54400535d5730e",
+    "Efektivne vrednosti.md": "227e70e8a8029df7397cec93be46f2c8121aa90d5c806c10df7790baeaccb34a",
+    "Lenzovo pravilo.md": "5a098a85f715b2acd148b3e3e97c5b5d1bbf2d0077555b2a727a6dfea553f420"
+  }
+}

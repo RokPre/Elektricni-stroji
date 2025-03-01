@@ -6,6 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 52.03124999999999,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -13,13 +14,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
+                "file": "Magnetni krog.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Index"
-            }
+              "title": "Magnetni krog"
+            },
+            "group": "109dcec91af2f1ab"
+          }
+        ]
+      },
+      {
+        "id": "edc9822ab1381868",
+        "type": "tabs",
+        "dimension": 47.96875,
+        "children": [
+          {
+            "id": "2683f154b2db0818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magnetni krog.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Magnetni krog"
+            },
+            "group": "109dcec91af2f1ab"
           }
         ]
       }
@@ -53,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#complete",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenzovo pravilo.md",
+                "file": "Obratovanje sinhronskega stroja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lenzovo pravilo"
+              "title": "Backlinks for Obratovanje sinhronskega stroja"
             }
           },
           {
@@ -105,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lenzovo pravilo.md",
+                "file": "Sinhronski stroj.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lenzovo pravilo"
+              "title": "Outgoing links from Sinhronski stroj"
             }
           },
           {
@@ -120,9 +144,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -146,8 +168,18 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "dfd5ac4b916020c2",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {},
+              "icon": "sigma",
+              "title": "Mathpad"
             }
           },
           {
@@ -166,7 +198,7 @@
       {
         "id": "f04e98315356602d",
         "type": "tabs",
-        "dimension": 23.255813953488367,
+        "dimension": 23.25581395348837,
         "children": [
           {
             "id": "db3faec1ebee487f",
@@ -182,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,49 +232,45 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Lenzovo pravilo.md",
-    "Index.md",
+    "Excalidraw/1740141209.excalidraw.md",
     "Magnetni krog.md",
-    "faradej zakon.md",
-    "Amperov zakon.md",
-    "Efektivne vrednosti.md",
-    "BH krivulja.md",
-    "Attachments/1740836360.excalidraw.md",
-    "Excalidraw/Magnetni krog 2024-11-02 13.47.52.excalidraw.md",
-    "Attachments/1740836360.excalidraw.svg",
-    "Attachments/Pasted Image 20250301142820_368.png",
-    "Attachments/Pasted Image 20250301142232_345.png",
-    "Attachments/1740830887.excalidraw.md",
-    "Attachments/1740830887.excalidraw.svg",
-    "Nadomestno vezje transformatorja.md",
+    "Excalidraw/1740141209.excalidraw.svg",
+    "Uvod.md",
+    "Excalidraw/1740140972.excalidraw.md",
+    "Excalidraw/1740140972.excalidraw.svg",
     "Excalidraw/Magnetni krog 2024-11-02 09.34.50.excalidraw.md",
     "Transformatorji.md",
-    "Uvod.md",
-    "Excalidraw/Magnetni krog 2024-11-02 13.05.34.excalidraw.md",
-    "Attachments/Pasted Image 20250301123232_689.png",
-    "Attachments",
-    "Pasted Image 20250301110603_708.png",
-    "Excalidraw/1734772954.excalidraw.md",
-    "Excalidraw/Magnetni krog 2024-11-02 12.30.49.excalidraw.md",
-    "Excalidraw/1740825604.excalidraw.md",
-    "Excalidraw/1740825696.excalidraw.md",
-    "Excalidraw/drawing1740825573.excalidraw.md",
-    "Excalidraw/1740825696.excalidraw.svg",
-    "Excalidraw/1740825604.excalidraw.svg",
-    "Excalidraw/Transformatorji 2024-11-05 18.07.54.excalidraw.md",
-    "Excalidraw/BH krivulja 2024-11-02 12.41.23.excalidraw.md",
-    "Excalidraw/1740140972.excalidraw.md",
-    "Excalidraw/1740141209.excalidraw.md",
-    "Pdfs/Lenzovo pravilo.pdf",
-    "Pdfs/Transformatorji.pdf",
-    "Excalidraw/1740141209.excalidraw.svg",
-    "Excalidraw/1740140972.excalidraw.svg",
     "Coulombov zakon.md",
     "Templates/NewNote.md",
+    "BH krivulja.md",
+    "test.md",
+    "Index.md",
+    "Excalidraw/drawing1740132003.excalidraw.md",
+    "Excalidraw/drawing1740132003.excalidraw.svg",
+    "Excalidraw/1740130184.excalidraw.md",
+    "Excalidraw/1740130184.excalidraw.svg",
+    "Excalidraw/1740130150.excalidraw.md",
+    "Excalidraw/1740130150.excalidraw.svg",
     "Templates",
-    "Pdfs/Amerov zakon.pdf",
-    "Pdfs/Magnetni krog.pdf",
-    "Pdfs",
+    "Amerov zakon.md",
+    "pdf/Amerov zakon.pdf",
+    "pdf/Magnetni krog.pdf",
+    "pdf",
+    "Obratovanje sinhronskega stroja.md",
+    "Sinhronski stroj old.md",
+    "Excalidraw/1734783921.excalidraw.md",
+    "Excalidraw/1734783921.excalidraw.svg",
+    "Excalidraw/1734783015.excalidraw.md",
+    "Excalidraw/1734783015.excalidraw.svg",
+    "Excalidraw/1734782133.excalidraw.md",
+    "Excalidraw/1734781736.excalidraw.md",
+    "Excalidraw/1734782133.excalidraw.svg",
+    "Excalidraw/Sinhronski stroj 23.03.2024_1.md",
+    "Excalidraw/1734781779.excalidraw.md",
+    "Excalidraw/1734781779.excalidraw.svg",
+    "Excalidraw/Sinhronski stroj 29.03.2024.md",
+    "Excalidraw/1734781736.excalidraw.svg",
+    "Excalidraw/Sinhronski stroj 23.03.2024.md",
     "Excalidraw"
   ]
 }

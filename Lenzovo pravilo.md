@@ -2,12 +2,15 @@
 related:
   - "[[Transformatorji|predavanje 2]]"
 tags:
-  - complete
+  - unfinished
 aliases:
   - Lenzov zakon
   - inducirana napetost
   - elektromagnetna indukcija
+last edit: 2025-03-01 16:44
 ---
+**LENZOVO PRAVILO NAM POVE SAMO SMER INDUCIRANE NAPETOSI**.
+**FARADEJEVO PRAVILO PA NAM POVE DA SE NAPETOST INDUCIRA**
 
 Lenzovo pravilo pravi, da smer induciranega toka v zanki vedno nasprotuje spremembi, ki je povzročila ta tok. To pomeni, da inducirani tok poskuša nasprotovati vzroku, zaradi katerega nastane.
 

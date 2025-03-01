@@ -1,10 +1,9 @@
 ---
-last edit: 2025-02-21 10:31
+last edit: 2025-03-01 13:06
 ---
-et Dobrodošli
-To so zapiski, ki sem jih naredil za predmet Električni stroji, ker se mi zdi knjiga ko jo je napisal profesor obupna. Zapiski sledijo predavanjem, vključujejo pa tudi [Electrical machines
-](https://plus.cobiss.net/cobiss/si/sl/bib/ctk/38730501) in [Electrical machines
-](https://plus.cobiss.net/cobiss/si/sl/bib/ctk/10303060)
+Dobrodošli
+To so zapiski, ki sem jih naredil za predmet Električni stroji, ker se mi zdi knjiga, ki jo je napisal profesor obupna. Zapiski sledijo predavanjem in učbeniku. Na vrhu vsakega zapiska je označna pripadajoča stran v učbeniku.
+
 # Po predavanjih
 
 | predavanje                                                        | tema                                            |

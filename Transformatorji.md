@@ -1,20 +1,71 @@
 ---
+creation date: 2025-02-25 09:34
+last edit: 2025-03-08 13:32
+id: 1740472482
+aliases:
+  - predavanje 2
+ucb str: 49-52
 related:
   - "[[Lenzovo pravilo]]"
   - "[[Gavsov zakon]]"
 tags:
   - unfinished
-aliases:
-  - predavanje 2
 ---
-# Struktura
-Transformatorji so pogosto sestavljeni iz stebra in jermena. Tipično to dosežemo z EI konstrukcijo, kjer vzamemo list železa iz katerega izrežemo dva I-ja tako da ostaneta dva E-ja. 
-Imamo lahko konstrukcijo, kjer sta obes strani, visoko napetostna, in nizko napetostna na istem stebru. Tipično je visoko napetostna na zunanji strani zato da težje pride do preboja.
+Na [[Magnetni krog|prejšnjih predavanjih]] smo se naučili o magnetnem krogu, in o dušilki. Sedaj bomo dodali še eno navitje okoli stebra i z tem formirali transformator.
+# Zgradba
+Transformatorji so pogosto sestavljeni iz stebra in jermena. Tipično to dosežemo z EI konstrukcijo, kjer vzamemo list železa iz katerega izrežemo dva I-ja tako da ostaneta dva E-ja.  Imamo lahko konstrukcijo, kjer sta obes strani, visoko napetostna, in nizko napetostna na istem stebru. Tipično je visoko napetostna na zunanji strani zato da težje pride do preboja.
 
-![[Transformatorji 2024-11-05 16.40.22.excalidraw]]
-# Nadomestno vezje
+![[Transformatorji 2024-11-05 16.40.22.excalidraw.svg|70%]]
+%%[[Transformatorji 2024-11-05 16.40.22.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+# Obremenitev in ravnotežje transformatorja
+Sedaj smo na sekundarno stran priključili breme. To breme še nima vpliva, ker je stikalo izklopljeno in ni sklenjen tokokrog. Ob tem času imamo na primarni strani napetost $u$, magnetilni tok $i_{m}$, v jedru glavni magnetni fluks $\Phi_{gl}$. Na sekundarni strani je pa samo inducirana napetost $e_{i2}$, ker imamo $N$ ovojev. Ko pa priključimo stikalo steče po sekundarni strani tok $i_{2}$, ki teče po navitju in skozi breme. 
+
+![[1741433627.excalidraw.svg|70%]]
+%%[[1741433627.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+Tako kot na primarni strani, kjer imamo tok, ki teče po navitju, imamo sedaj na sekundarni strani tok ki teče po sekundarnem navitju. Posledica tega je magnetno polje. To magnetno polje nasprotuje glavnemu magnetnemu polju znotraj jedra transformatoja.
+
+Sedaj bi lahko sklepali, da se je magnetno polje znotraj jedra spremenilo, saj magnetnemu polju, ki ga generira primarna stran nasprotuje magnetno polje sekundarne strani. 
+$$
+\Phi_{gl} = \Phi_{1} - \Phi_{2}
+$$
+Če bi predpostavili da je to res, potem bi bil fluks ki ga "čuti" primarna tuljava manjši in posledično, bi se na rpimarnem navitju inducirala manjša napetost $e_{i1}$. Ta inducirana napetost bi bila manjša od inducirane napetosti preden smo priklopili breme na sekundarni strani. Vemo pa, da je inducirana napetost na primarni strani enaka napetosti vira. Če ta dva dejstava sustavimo skupaj, bi pomenilo, da bi bila napetost vira višja od inducirane napetosti, to pa ne more veljati zaradi [[Kirchhoffova zakona]].
+$$
+u - e_{i_{1}} \ne 0
+$$
+
+Ko priključimo breme steče tok na sekundarni strani, kar pomeni da dovajamo neko energijo, kar pomeni, da moramo na primarni strani to energijo od nekod dobiti, in posledično se mora nekaj spremeniti. Dajmo pomisliti še enkrat. Sedaj vemo, da se znotraj jedra glavni fluks ne spremeni $\Phi_{gl}$, vendar imamo pa nasprotujoči fluks $\Phi_{2}$, katerega moramo kompenzirati. Ker je primarno navitje edini drugi vir magnetnega pretoka, lahko sklepamo, da se mora $\Phi_{1}$ povečati za $\Phi_{2}$. 
+$$
+\Phi_{1} = B A = \frac{HA}{\mu_{0}\mu_{r}} = \frac{N i_{1}A}{l_{sr} \mu_{0}\mu_{r}} 
+$$
+Ker nemore spreminjati same strukture transformatorja odpate nam ostane samo opcija spreminjanje primarnega tokova $i_{1}$. Čim priključimo breme na sekundarno stran se naš magnetilni tok $i_{m}$ spremeni v primarni tok $i_{1}$.
+
+$$
+\underline{I_{2}} = \frac{U_{2}}{\underline{Z_{b}}}
+$$
+Napetost ni podčrtana, ker je vodilni kazalec.
+
+To velja v primeru, ko imamo napetostni vir, ki je tudi dovolj močen, da se napetost $u$ ne sesede ob preveliki obremenitvi.
+
+Ko profesor pravi, da sekundarni tok ne vpliva na magnetni pretok znotraj jedra, se moti. Sekundarni tok vpliva na fluks znotraj jedra, vendar nas napetostni vir kompenzira za ta vpliv zato se fluks glavni ne spremeni. Glavni fluks znotraj jedra je kot neka toga palica, če jo na eno strni potisnemo, se bo tudi na drugi strani premaknila, kljub taku da se palica sama po sebi ni nič spremenila.
+
+# Ravnotežje magnetnega vzbujanja
+$$
+\Theta_{1} = \Theta_{2} \Rightarrow I_{1}N_{1} = I_{2}N_{2} \Rightarrow \frac{I_{1}}{I_{2}} = \frac{N_{2}}{N_{1}}
+$$
+$$
+I_{1} = I_{m} + I_{\delta} \Rightarrow I_{\delta} = I_{1} - I_{m}
+$$
+$$
+I_{1} = \frac{N_{2}}{N_{1}}\frac{U_{2}}{Z_{b}}
+$$
+$I_{m}$ je odvisen od konstrukcije transformatorja.
+
+# Nadomestno vezje %%Predavanje 3%% 
 Nadomestno vezje je shema, ki nam pove, kje se nahajajo izgube v transformatorju.
-![[Transformatorji 2024-11-05 16.56.07.excalidraw]]
+![[Transformatorji 2024-11-05 16.56.07.excalidraw.svg]]
+%%[[Transformatorji 2024-11-05 16.56.07.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 $I_{1} - I_{2}' \Rightarrow  I_{10} = I_{od} + I_{m}$je tok prostega teka, ki magneti jedro in prinaša moč za izgube v železu.
 $E_{1} = I_{m} 2 \pi f \frac{L}{G_{L}} = I_{m}X_{Gl}$
@@ -25,7 +76,7 @@ $I_{m}$ je kompleksna komponenta toka prostega teka.
 $X_{gl}$ je $\frac{E_{1}}{I_{m}}$, kar predstavlja glavno induktivno upornosti transformatorja.
 
 Ker železno jedro hrani magnetno polje, moramo to predstaviti z elementom, ki hrani energijo, zato izberemo tuljavo.
-## Redukcija
+## Redukcija %%Predavanje 3%%
 Ker transformator spreminja nivo napetosti, bi na nadomestnem vezju odpovedali [[Kirchhoffova zakona|Kirchhoffovi zakoni]], zato izvedemo redukcijo. To storimo za inducirani napetosti, ki se nahajata na sredini nadomestnega vezja, v tem primeru redukcija na primarno stran, tako kot je na zgornji shemi vezja:
 
 $$
@@ -50,7 +101,7 @@ Pomembna lastnost redukcije je to, da se moč ohrani. Moč primarne strani je en
 
 **Pozor**, zgornji primeri so za redukcijo na primarno stran. To pomeni, da so vse napetosti in elementi v nadomestnem vezju prilagojene tako, da ustrezajo $E_{1}$. Da se tudi reducirati na sekundarno stran, kjer je osnova za redukcijo $E_{2}$. To storimo tako da, obrnemo ulomek v katerem ne nahaja število ovojev $N_{1}$ in $N_{2}$.
 
-# Histerezne izgube
+# Histerezne izgube %%Predavanje 4%%
 Za to razlago bomo predpostavili, da so sponke sekundarnega navitja odprte, posledično na sekundarni $I_{2}$ ne teče (prosti tek). Naslednja poenostavitev bo, da je inducirana napetost enaka napetosti generatorja/pritisnjena napetost.
 $$
 U_{1} = E_{i} = 4.44 f N_{1} B\cdot A
@@ -70,7 +121,7 @@ Kjer je $K_{h}$ specifična histerezna izguba v $\left[ \frac{W}{kg} \right]$ ž
 
 Če vzamemo osenčeno površino, in jo pomnožimo z frekvenco magnetenja $f$, dobimo energijo na sekundo $\left[ \frac{J}{s} = W \right]$, ki je moč histereznih izgub, ki se spreminja v toploto.
 
-# Vrtinčne izgube
+# Vrtinčne izgube %%Predavanje 4%%
 Za lažje razumevanje si oglej [[Lenzovo pravilo]].
 
 Ko imamo sklenjeno zanko, v kateri se spreminja magnetni fluks $\Phi$, se v zanki inducira napetost, ki povzroči tok. Ta tok bo deloval tako, da bo skušal nasprotovati spremembi magnetnega polja, ki prehaja skozi zanko. Zanka se tako "upira" spremembi fluksa.

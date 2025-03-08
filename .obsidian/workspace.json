@@ -6,6 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 58.333333333333336,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -13,13 +14,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
+                "file": "Transformatorji.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Index"
-            }
+              "title": "Transformatorji"
+            },
+            "group": "e24e164ba1d6ee31"
+          }
+        ]
+      },
+      {
+        "id": "4448b49e8ef82c65",
+        "type": "tabs",
+        "dimension": 41.66666666666667,
+        "children": [
+          {
+            "id": "db2e12220259c172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transformatorji.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Transformatorji"
+            },
+            "group": "e24e164ba1d6ee31"
           }
         ]
       }
@@ -182,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,15 +222,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "db2e12220259c172",
   "lastOpenFiles": [
-    "Lenzovo pravilo.md",
     "Index.md",
     "Magnetni krog.md",
-    "faradej zakon.md",
-    "Amperov zakon.md",
+    "Transformatorji.md",
+    "Attachments/1741433627.excalidraw.md",
+    "Excalidraw/Transformatorji 2024-11-05 16.40.22.excalidraw.md",
+    "Excalidraw/Transformatorji 2024-11-05 16.40.22.excalidraw.svg",
+    "Attachments/1741433627.excalidraw.svg",
+    "Nadomestno vezje transformatorja.md",
+    "Excalidraw/Magnetni krog 2024-11-02 09.34.50.excalidraw.md",
     "Efektivne vrednosti.md",
     "BH krivulja.md",
+    "Amperov zakon.md",
+    "Lenzovo pravilo.md",
+    "faradej zakon.md",
     "Attachments/1740836360.excalidraw.md",
     "Excalidraw/Magnetni krog 2024-11-02 13.47.52.excalidraw.md",
     "Attachments/1740836360.excalidraw.svg",
@@ -213,9 +245,6 @@
     "Attachments/Pasted Image 20250301142232_345.png",
     "Attachments/1740830887.excalidraw.md",
     "Attachments/1740830887.excalidraw.svg",
-    "Nadomestno vezje transformatorja.md",
-    "Excalidraw/Magnetni krog 2024-11-02 09.34.50.excalidraw.md",
-    "Transformatorji.md",
     "Uvod.md",
     "Excalidraw/Magnetni krog 2024-11-02 13.05.34.excalidraw.md",
     "Attachments/Pasted Image 20250301123232_689.png",
@@ -231,13 +260,8 @@
     "Excalidraw/Transformatorji 2024-11-05 18.07.54.excalidraw.md",
     "Excalidraw/BH krivulja 2024-11-02 12.41.23.excalidraw.md",
     "Excalidraw/1740140972.excalidraw.md",
-    "Excalidraw/1740141209.excalidraw.md",
     "Pdfs/Lenzovo pravilo.pdf",
     "Pdfs/Transformatorji.pdf",
-    "Excalidraw/1740141209.excalidraw.svg",
-    "Excalidraw/1740140972.excalidraw.svg",
-    "Coulombov zakon.md",
-    "Templates/NewNote.md",
     "Templates",
     "Pdfs/Amerov zakon.pdf",
     "Pdfs/Magnetni krog.pdf",
